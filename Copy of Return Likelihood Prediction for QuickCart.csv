@@ -1,0 +1,1001 @@
+ProductID,ProductType,CustomerID,PreviousPurchases,PreviousReturns,BrowsingTimeMinutes,ReviewRating,Price,DaysToDelivery,PaymentMethod,Returned
+5001,Electronics,12398,4,2,16.2,2.7,1731.78,9,UPI,1
+5002,Home Decor,10168,4,1,12.3,5.0,2772.87,1,Cash on Delivery,1
+5003,Beauty,18038,5,1,8.6,3.4,219.41,3,Net Banking,1
+5004,Beauty,16596,2,1,6.8,4.4,2288.12,9,UPI,0
+5005,Electronics,10681,3,0,13.2,3.4,1560.92,7,UPI,1
+5006,Beauty,12510,5,2,5.5,4.2,4828.65,2,Debit Card,0
+5007,Electronics,19488,4,1,7.8,2.6,2944.75,9,Net Banking,0
+5008,Books,15209,5,1,10.7,3.3,2718.23,9,Cash on Delivery,0
+5009,Home Decor,19562,4,0,9.6,4.8,986.72,4,Credit Card,0
+5010,Apparel,18825,6,2,7.1,3.7,690.86,6,Cash on Delivery,0
+5011,Electronics,17716,5,2,2.9,5.0,3972.4,1,Credit Card,1
+5012,Apparel,14795,5,3,4.2,4.0,2431.66,2,Debit Card,0
+5013,Electronics,11162,7,1,10.6,3.6,2740.11,3,Debit Card,0
+5014,Home Decor,12121,5,0,12.0,3.6,4841.7,4,UPI,0
+5015,Books,17893,3,1,9.4,3.3,3104.3,2,Net Banking,1
+5016,Beauty,14453,3,1,5.7,2.7,1786.39,2,Net Banking,0
+5017,Home Decor,19575,2,0,9.4,4.8,3501.98,4,Credit Card,0
+5018,Beauty,11932,4,1,7.9,5.0,2627.36,3,Net Banking,1
+5019,Home Decor,16015,4,1,12.8,3.8,4259.74,8,Net Banking,0
+5020,Books,19201,6,1,15.5,5.0,4971.03,1,Net Banking,0
+5021,Home Decor,15497,5,1,19.6,3.2,1561.76,2,UPI,0
+5022,Books,11744,3,2,18.4,5.0,192.49,6,Credit Card,0
+5023,Beauty,10914,3,0,5.2,4.0,2161.64,4,Cash on Delivery,0
+5024,Home Decor,16756,4,1,13.0,4.0,2312.62,5,Credit Card,0
+5025,Electronics,14949,9,1,5.0,3.6,1668.31,8,Credit Card,0
+5026,Apparel,15488,6,1,11.6,4.8,1915.59,6,UPI,1
+5027,Apparel,10035,8,0,5.5,4.0,4886.38,6,Credit Card,0
+5028,Apparel,10947,2,1,14.5,4.1,1280.66,9,Cash on Delivery,0
+5029,Books,10334,6,1,2.9,3.2,409.58,8,Credit Card,1
+5030,Electronics,16741,5,1,1.0,5.0,4721.46,8,UPI,0
+5031,Home Decor,15080,3,0,11.0,3.9,2200.45,9,Net Banking,0
+5032,Apparel,10434,4,1,15.4,2.5,1324.92,9,UPI,0
+5033,Beauty,18839,6,2,5.3,3.8,4584.87,7,Cash on Delivery,1
+5034,Apparel,15513,4,2,4.2,4.7,865.52,7,Net Banking,0
+5035,Electronics,10747,5,2,8.5,3.6,759.96,6,Debit Card,0
+5036,Apparel,14365,5,0,22.3,3.6,2642.94,2,Net Banking,1
+5037,Books,16541,4,1,19.3,4.5,1069.26,1,Cash on Delivery,0
+5038,Electronics,12444,10,1,11.4,4.0,3275.03,8,Debit Card,0
+5039,Apparel,10920,7,1,3.2,3.4,853.84,4,Debit Card,0
+5040,Books,17010,4,2,12.0,3.7,596.02,2,Credit Card,0
+5041,Books,18603,8,0,4.6,4.3,4107.64,1,Debit Card,0
+5042,Home Decor,16377,0,1,12.5,1.9,3996.62,4,Net Banking,0
+5043,Books,17198,5,0,5.5,3.5,2851.51,5,UPI,1
+5044,Apparel,13895,8,0,10.3,4.0,2742.89,6,UPI,0
+5045,Electronics,14539,6,0,11.6,2.9,4716.38,5,Debit Card,0
+5046,Electronics,11711,4,0,2.3,2.0,1532.55,3,Cash on Delivery,1
+5047,Apparel,13752,8,1,15.3,4.6,2914.89,9,Net Banking,0
+5048,Apparel,11551,5,4,10.3,4.3,497.32,9,UPI,0
+5049,Apparel,19445,4,0,10.6,3.9,1128.48,3,UPI,0
+5050,Books,16221,3,3,8.5,3.8,162.76,9,UPI,0
+5051,Electronics,13887,6,1,6.2,4.0,4435.35,1,Credit Card,0
+5052,Electronics,11169,5,0,9.4,4.8,2855.46,6,UPI,0
+5053,Beauty,18226,8,0,13.6,5.0,3844.02,9,Credit Card,0
+5054,Beauty,11370,5,0,11.2,3.4,3661.63,5,Debit Card,0
+5055,Home Decor,13288,5,1,11.5,3.8,1189.33,9,Credit Card,0
+5056,Electronics,17549,4,1,19.1,5.0,2234.39,8,Net Banking,0
+5057,Books,18895,7,1,8.9,3.4,2963.4,1,Cash on Delivery,1
+5058,Books,13562,5,1,16.3,3.4,2381.29,9,Credit Card,0
+5059,Books,19329,8,3,10.8,1.8,3285.07,6,Credit Card,0
+5060,Electronics,18016,3,1,8.7,5.0,4422.32,9,Debit Card,0
+5061,Beauty,11303,5,1,2.3,3.2,2836.47,6,UPI,0
+5062,Beauty,11627,5,2,20.5,3.8,651.13,5,Debit Card,1
+5063,Books,19593,9,3,13.7,3.0,924.83,2,UPI,1
+5064,Beauty,10739,4,1,2.6,5.0,1796.37,1,Debit Card,0
+5065,Home Decor,11713,1,2,9.5,4.0,623.78,8,Cash on Delivery,0
+5066,Beauty,15463,8,0,4.1,3.7,3428.62,1,Debit Card,0
+5067,Electronics,15028,8,1,12.4,4.2,718.06,3,Cash on Delivery,0
+5068,Electronics,19210,7,1,19.2,4.4,1853.23,2,Credit Card,0
+5069,Home Decor,16790,5,0,18.9,4.7,2871.83,2,Credit Card,0
+5070,Home Decor,19649,5,1,10.9,4.0,260.69,1,Net Banking,0
+5071,Beauty,19243,4,0,7.8,3.7,1702.26,6,Cash on Delivery,0
+5072,Books,14469,3,2,3.2,4.1,1505.58,4,Credit Card,0
+5073,Beauty,13558,7,0,9.9,4.5,969.78,7,Credit Card,1
+5074,Beauty,13345,6,2,15.4,4.5,126.16,4,Net Banking,1
+5075,Books,12126,1,0,6.9,4.7,4174.6,4,Net Banking,1
+5076,Electronics,10306,2,1,8.8,4.4,1116.92,8,Cash on Delivery,0
+5077,Home Decor,17841,4,1,7.5,4.7,1522.98,8,Credit Card,0
+5078,Beauty,13135,4,2,11.6,5.0,1059.25,8,Cash on Delivery,0
+5079,Apparel,12811,3,0,10.8,5.0,2388.62,1,Net Banking,0
+5080,Apparel,16551,3,1,6.4,3.2,2763.46,1,Cash on Delivery,0
+5081,Apparel,17812,7,2,5.4,4.0,3658.37,2,Credit Card,0
+5082,Books,19614,5,3,9.9,4.6,3449.57,6,Credit Card,0
+5083,Home Decor,17759,7,0,5.1,1.7,4369.12,8,UPI,0
+5084,Electronics,12189,2,3,11.8,2.7,338.84,1,Net Banking,0
+5085,Apparel,12504,5,0,11.1,4.4,2683.17,5,Credit Card,0
+5086,Books,16807,2,0,1.0,5.0,2679.92,9,Debit Card,0
+5087,Electronics,15957,2,0,16.8,3.9,1559.28,4,Cash on Delivery,1
+5088,Apparel,19264,6,2,13.6,4.8,2317.85,5,Debit Card,1
+5089,Books,16768,3,0,4.0,4.2,2819.78,4,UPI,1
+5090,Books,10932,8,0,9.6,5.0,446.97,3,Credit Card,0
+5091,Books,10020,9,0,1.7,3.4,2341.23,3,Debit Card,0
+5092,Electronics,11793,5,1,12.6,3.8,2187.3,4,Credit Card,0
+5093,Books,18151,6,2,6.6,5.0,376.97,2,Net Banking,1
+5094,Beauty,14849,0,0,7.1,4.6,2108.2,2,Cash on Delivery,0
+5095,Electronics,17082,4,1,2.6,3.5,4872.08,6,Credit Card,0
+5096,Electronics,10166,5,0,8.7,4.8,3002.22,6,Debit Card,1
+5097,Home Decor,18554,5,0,7.2,4.5,3058.17,3,Cash on Delivery,1
+5098,Home Decor,17242,6,1,17.2,4.8,4170.37,4,Debit Card,0
+5099,Beauty,12345,5,0,1.0,3.2,922.74,7,Cash on Delivery,0
+5100,Electronics,10942,2,2,1.0,5.0,1740.67,9,UPI,0
+5101,Apparel,15789,8,1,4.9,5.0,586.16,1,Net Banking,0
+5102,Books,19955,8,1,9.8,2.6,2273.16,1,Debit Card,0
+5103,Electronics,15177,7,3,14.3,4.2,148.62,5,UPI,1
+5104,Apparel,17972,2,1,8.5,2.4,4350.6,8,Debit Card,1
+5105,Books,18826,4,2,4.5,4.1,3601.32,1,Credit Card,0
+5106,Home Decor,12032,4,1,9.6,4.4,535.26,8,Debit Card,0
+5107,Apparel,12590,7,1,17.1,2.9,1410.95,6,Debit Card,0
+5108,Electronics,19854,7,1,7.0,4.8,4233.62,3,Credit Card,0
+5109,Electronics,18920,6,1,6.9,4.0,1629.1,1,Debit Card,1
+5110,Books,17450,5,3,14.1,3.7,4095.54,5,Net Banking,1
+5111,Beauty,10860,2,0,8.7,4.4,4259.78,7,Credit Card,0
+5112,Apparel,13431,6,2,5.7,4.5,1960.32,1,Credit Card,0
+5113,Electronics,18248,2,3,4.7,4.3,3480.1,3,UPI,0
+5114,Home Decor,11557,9,0,12.2,4.2,2998.33,3,Credit Card,0
+5115,Apparel,10218,4,1,8.0,5.0,3821.35,6,Cash on Delivery,0
+5116,Home Decor,11954,5,1,10.6,3.9,1871.78,8,Debit Card,1
+5117,Electronics,16532,6,2,2.2,5.0,3461.73,8,Credit Card,0
+5118,Home Decor,13112,4,1,14.7,3.0,1788.33,9,Debit Card,0
+5119,Beauty,14324,3,3,4.2,3.1,4229.66,6,UPI,0
+5120,Beauty,10756,8,0,7.1,4.0,4569.43,1,Credit Card,1
+5121,Apparel,12999,5,1,8.2,5.0,4080.81,7,Cash on Delivery,0
+5122,Apparel,13870,6,4,9.1,3.7,1035.25,2,Net Banking,1
+5123,Apparel,11017,3,1,9.2,4.1,424.35,9,Cash on Delivery,1
+5124,Beauty,16993,3,2,14.2,4.8,3967.95,6,Cash on Delivery,0
+5125,Books,13322,4,2,22.4,4.9,2519.89,7,Cash on Delivery,0
+5126,Beauty,10579,4,0,14.5,5.0,2352.57,9,UPI,0
+5127,Apparel,18044,3,1,5.0,5.0,3516.09,5,Debit Card,1
+5128,Home Decor,13445,5,0,10.5,3.9,2554.54,2,Cash on Delivery,1
+5129,Books,13694,4,2,5.0,5.0,2248.5,8,Debit Card,0
+5130,Home Decor,18335,9,2,8.0,2.6,3067.87,1,Net Banking,0
+5131,Home Decor,14287,6,0,13.4,2.6,205.45,5,Net Banking,0
+5132,Apparel,12354,5,1,6.2,4.7,2187.47,6,Net Banking,1
+5133,Home Decor,10981,3,1,12.6,5.0,4990.76,9,Debit Card,0
+5134,Home Decor,17282,5,1,8.9,4.3,4795.46,8,Debit Card,0
+5135,Apparel,12485,2,0,5.8,5.0,4877.4,5,Net Banking,0
+5136,Electronics,13894,4,2,11.3,4.7,2806.2,8,Cash on Delivery,0
+5137,Electronics,11667,5,0,11.0,3.2,2624.25,3,Debit Card,0
+5138,Beauty,16386,5,1,11.8,3.0,4865.6,6,UPI,1
+5139,Books,15483,1,1,13.9,3.7,2230.43,2,UPI,0
+5140,Beauty,15949,7,1,14.3,4.6,3544.8,3,Debit Card,0
+5141,Books,13663,3,2,11.5,5.0,4188.68,5,Net Banking,0
+5142,Home Decor,15333,6,1,16.5,4.1,1232.08,1,Cash on Delivery,0
+5143,Home Decor,18140,4,1,13.8,3.8,881.1,7,Credit Card,1
+5144,Apparel,11479,5,1,9.1,4.7,2138.05,5,Debit Card,0
+5145,Apparel,16346,4,0,15.0,4.2,2162.78,6,Net Banking,1
+5146,Beauty,17730,8,0,3.6,4.7,729.5,8,Credit Card,0
+5147,Books,19586,8,2,7.6,4.2,4146.8,8,Net Banking,0
+5148,Books,15335,3,3,10.4,5.0,1022.94,6,Cash on Delivery,0
+5149,Home Decor,17870,3,3,15.9,4.8,3336.68,4,Net Banking,0
+5150,Home Decor,14378,3,1,11.3,1.9,2663.25,9,Net Banking,1
+5151,Beauty,16152,7,1,9.1,4.1,773.16,4,Credit Card,0
+5152,Beauty,10377,6,1,5.0,2.5,900.96,4,Debit Card,0
+5153,Beauty,11821,3,1,5.0,4.6,2671.71,4,Net Banking,1
+5154,Apparel,18828,5,0,9.1,2.3,4900.15,9,Cash on Delivery,0
+5155,Books,17892,3,1,14.3,4.2,469.24,2,UPI,1
+5156,Beauty,10319,7,0,10.0,4.6,4587.37,3,UPI,0
+5157,Electronics,17592,8,1,12.2,4.7,951.62,5,Cash on Delivery,0
+5158,Electronics,12572,3,1,11.2,4.2,4602.32,2,Credit Card,0
+5159,Home Decor,12394,7,1,14.0,4.6,3813.76,4,Cash on Delivery,0
+5160,Apparel,10367,4,2,18.1,4.4,1874.14,6,Net Banking,1
+5161,Beauty,19363,8,3,8.4,3.1,1857.48,3,UPI,1
+5162,Beauty,16741,3,1,9.0,5.0,1839.22,5,Net Banking,0
+5163,Apparel,11229,6,2,11.1,3.9,466.18,7,Net Banking,0
+5164,Electronics,14784,5,2,4.2,5.0,303.78,8,Credit Card,0
+5165,Beauty,16841,5,1,1.0,4.2,1029.03,8,Debit Card,0
+5166,Home Decor,16287,7,0,12.2,3.9,4031.4,1,Debit Card,0
+5167,Books,18824,6,0,9.4,4.5,2444.25,6,Credit Card,0
+5168,Beauty,18240,7,3,12.2,5.0,3663.16,8,Cash on Delivery,0
+5169,Apparel,17869,5,2,8.4,4.5,2018.87,7,Net Banking,0
+5170,Beauty,10379,4,1,6.6,4.6,250.1,1,Cash on Delivery,1
+5171,Apparel,11422,7,0,9.0,4.0,3157.78,4,Net Banking,0
+5172,Books,19109,2,1,9.9,4.5,2332.07,8,Cash on Delivery,0
+5173,Books,15843,6,2,14.5,3.6,4592.35,8,Debit Card,0
+5174,Beauty,16454,4,2,8.5,2.4,2333.16,5,Credit Card,1
+5175,Home Decor,10966,3,1,13.7,3.4,3869.27,5,Credit Card,1
+5176,Electronics,17111,4,3,10.7,3.8,1425.08,2,UPI,0
+5177,Beauty,14314,5,0,1.0,4.3,2534.6,4,Cash on Delivery,0
+5178,Beauty,14029,8,1,10.0,4.4,4387.24,5,Cash on Delivery,1
+5179,Beauty,16200,5,1,19.5,3.7,2258.66,3,Cash on Delivery,0
+5180,Electronics,11449,5,0,6.6,3.0,2031.29,8,Credit Card,0
+5181,Electronics,10190,6,1,4.4,5.0,2556.22,7,Cash on Delivery,0
+5182,Electronics,13730,4,0,1.0,4.4,3992.36,1,Debit Card,0
+5183,Books,12059,1,0,15.8,4.7,4230.97,1,Debit Card,1
+5184,Beauty,18011,3,1,6.5,3.6,3173.54,1,UPI,1
+5185,Beauty,13503,3,2,7.1,4.8,367.09,8,Cash on Delivery,1
+5186,Apparel,16477,1,0,7.7,4.1,1213.85,8,Debit Card,0
+5187,Electronics,13000,4,1,11.8,3.9,3809.35,6,Credit Card,0
+5188,Beauty,14521,4,1,15.7,4.8,3544.83,2,Cash on Delivery,0
+5189,Home Decor,17703,3,1,15.7,5.0,214.35,6,Debit Card,0
+5190,Apparel,12880,4,0,9.3,4.1,4857.4,7,Cash on Delivery,0
+5191,Home Decor,11981,5,1,11.1,3.3,3145.93,2,Net Banking,0
+5192,Apparel,18189,2,0,10.9,5.0,3451.32,8,Debit Card,1
+5193,Books,15521,6,1,16.5,5.0,1303.67,3,Cash on Delivery,1
+5194,Electronics,15420,4,0,7.9,3.4,4739.95,8,UPI,0
+5195,Home Decor,17280,7,1,4.7,4.2,1139.51,3,Debit Card,0
+5196,Electronics,10621,3,0,4.7,3.2,2097.73,1,UPI,0
+5197,Beauty,16103,4,2,7.7,3.0,1393.09,8,Credit Card,1
+5198,Apparel,14318,8,0,7.1,5.0,2435.69,3,Debit Card,1
+5199,Home Decor,11019,2,1,10.8,2.5,3262.06,2,Credit Card,1
+5200,Books,12554,3,2,6.4,5.0,4059.39,2,Net Banking,0
+5201,Apparel,13343,5,2,7.4,5.0,2955.56,7,UPI,1
+5202,Electronics,16736,5,1,15.4,5.0,2120.8,4,Debit Card,0
+5203,Apparel,19932,6,0,7.1,3.3,1939.44,1,Debit Card,0
+5204,Apparel,10503,8,1,11.0,3.2,2053.37,4,Cash on Delivery,0
+5205,Home Decor,10591,4,0,1.0,3.5,679.5,9,Debit Card,0
+5206,Beauty,13167,2,0,10.4,3.0,4732.56,2,Net Banking,0
+5207,Home Decor,15360,9,1,11.1,3.4,4216.25,2,Net Banking,0
+5208,Electronics,18004,4,1,6.9,5.0,3569.04,6,Cash on Delivery,0
+5209,Apparel,16423,6,2,4.6,2.2,4456.38,3,Cash on Delivery,1
+5210,Electronics,17158,10,1,6.8,5.0,195.98,1,UPI,0
+5211,Books,15224,5,2,8.2,3.1,3844.06,6,UPI,0
+5212,Electronics,14564,3,2,11.6,1.9,4487.37,5,Credit Card,0
+5213,Home Decor,16291,2,0,22.4,2.7,3682.37,8,Cash on Delivery,0
+5214,Electronics,17711,6,1,2.3,4.8,3546.62,3,Credit Card,1
+5215,Books,10576,9,1,8.0,2.0,4728.84,1,Credit Card,0
+5216,Apparel,15977,6,1,16.6,5.0,3212.2,9,Net Banking,0
+5217,Apparel,10043,10,2,1.3,4.0,1662.19,8,UPI,1
+5218,Home Decor,13379,4,1,11.8,4.3,2721.57,3,Cash on Delivery,0
+5219,Electronics,19929,0,1,6.5,5.0,2081.16,5,Credit Card,0
+5220,Apparel,17488,7,2,14.6,4.4,2693.61,2,Cash on Delivery,1
+5221,Home Decor,18147,3,1,2.4,3.3,276.32,2,Credit Card,0
+5222,Books,16536,3,0,2.5,4.3,4384.34,3,Cash on Delivery,0
+5223,Apparel,12675,5,0,12.9,3.6,1468.36,7,Debit Card,0
+5224,Books,16830,6,0,4.5,5.0,4023.49,2,Credit Card,0
+5225,Books,19993,1,3,19.9,3.3,4525.11,1,Debit Card,0
+5226,Home Decor,11353,6,2,4.0,4.9,2900.84,4,Net Banking,0
+5227,Electronics,19585,6,2,5.2,5.0,155.35,5,Net Banking,0
+5228,Home Decor,11641,5,0,10.1,4.5,1389.79,9,Net Banking,0
+5229,Electronics,16148,6,1,6.5,4.8,911.48,7,Cash on Delivery,0
+5230,Home Decor,12013,6,2,5.8,3.4,984.56,8,Net Banking,1
+5231,Books,10957,2,0,12.0,4.2,4614.92,2,Debit Card,0
+5232,Apparel,14842,8,0,12.2,4.3,1341.88,1,Cash on Delivery,1
+5233,Beauty,11023,1,1,7.4,3.7,3965.13,6,UPI,1
+5234,Books,16815,6,0,8.8,5.0,233.2,8,Cash on Delivery,0
+5235,Apparel,16397,4,1,2.8,3.8,933.84,2,UPI,0
+5236,Apparel,15426,6,2,7.5,3.7,4939.65,4,UPI,0
+5237,Beauty,10532,3,2,9.7,4.6,3863.34,1,Credit Card,0
+5238,Beauty,18647,8,1,6.1,3.1,1691.4,3,Net Banking,1
+5239,Electronics,13645,4,2,7.9,2.6,4864.02,4,Net Banking,0
+5240,Electronics,19709,3,1,7.3,3.6,2829.48,5,Credit Card,0
+5241,Home Decor,11198,6,2,4.2,4.9,968.26,8,Cash on Delivery,0
+5242,Beauty,15586,6,0,10.6,5.0,3718.07,9,Debit Card,0
+5243,Apparel,11249,7,2,16.9,4.0,2796.56,9,Cash on Delivery,0
+5244,Beauty,13896,4,0,6.5,3.2,1199.16,1,UPI,0
+5245,Beauty,16031,3,0,11.4,4.6,1891.89,3,Credit Card,0
+5246,Apparel,18944,5,1,20.9,5.0,2312.66,9,UPI,0
+5247,Home Decor,12721,9,2,3.2,4.1,2341.33,7,Debit Card,0
+5248,Beauty,19603,5,2,5.4,5.0,4602.8,7,UPI,1
+5249,Home Decor,10644,8,0,11.5,3.4,4770.04,5,Debit Card,1
+5250,Apparel,10931,5,0,7.7,4.7,521.19,6,Net Banking,0
+5251,Electronics,15266,3,1,11.9,4.7,2592.04,3,Debit Card,1
+5252,Electronics,10289,4,1,1.9,3.4,1614.04,3,Cash on Delivery,0
+5253,Books,16059,4,2,11.6,3.9,217.44,9,Credit Card,0
+5254,Beauty,12141,4,2,6.5,2.7,1575.51,4,Credit Card,1
+5255,Electronics,19820,4,2,14.8,2.9,2183.31,2,Debit Card,1
+5256,Books,16349,6,3,7.4,3.6,3636.96,3,UPI,1
+5257,Books,16584,6,2,5.7,3.1,2899.64,4,Cash on Delivery,1
+5258,Electronics,15806,3,3,12.4,3.1,4304.26,9,UPI,0
+5259,Home Decor,15831,2,1,13.3,5.0,4096.16,3,Net Banking,0
+5260,Beauty,14251,10,1,1.5,4.3,3309.29,2,Credit Card,1
+5261,Beauty,19501,3,2,10.7,4.7,3484.95,2,Net Banking,0
+5262,Apparel,10533,7,0,14.7,3.6,4077.57,9,Cash on Delivery,0
+5263,Books,15154,8,0,10.4,4.3,822.55,3,Debit Card,0
+5264,Beauty,13567,5,1,16.3,3.8,494.39,8,UPI,1
+5265,Electronics,13035,4,1,11.4,5.0,588.96,6,UPI,0
+5266,Beauty,16089,4,2,12.7,4.3,3111.33,3,Credit Card,0
+5267,Electronics,11961,9,2,12.6,2.0,2524.23,4,Credit Card,0
+5268,Books,12305,3,3,16.5,3.8,2608.08,9,Net Banking,0
+5269,Beauty,14162,7,3,4.4,4.6,384.15,3,Cash on Delivery,0
+5270,Books,14704,4,1,8.8,4.5,1403.72,4,Cash on Delivery,0
+5271,Electronics,18322,5,1,10.7,2.2,1987.73,5,Credit Card,0
+5272,Beauty,13393,2,0,11.4,2.7,2910.09,6,UPI,1
+5273,Apparel,15035,4,2,1.0,4.8,462.34,4,Debit Card,0
+5274,Beauty,11836,7,0,6.1,3.8,4668.62,3,Net Banking,1
+5275,Electronics,17074,2,0,1.0,4.0,142.16,3,UPI,0
+5276,Home Decor,12618,4,3,9.6,4.3,1495.88,3,Net Banking,1
+5277,Apparel,18989,7,0,12.6,4.3,2934.13,8,UPI,0
+5278,Electronics,11470,4,2,6.4,3.2,4057.89,1,Cash on Delivery,0
+5279,Electronics,11245,1,2,9.3,4.2,4527.97,9,Credit Card,0
+5280,Electronics,16174,4,1,9.8,3.1,3500.02,6,Debit Card,0
+5281,Home Decor,15294,1,1,4.7,3.5,1591.71,1,Cash on Delivery,1
+5282,Electronics,14205,6,1,17.2,5.0,717.87,6,Cash on Delivery,1
+5283,Books,18597,5,0,11.4,5.0,1774.57,2,Credit Card,0
+5284,Electronics,19829,1,1,4.5,2.5,1052.59,8,Credit Card,1
+5285,Beauty,10704,7,1,11.7,4.0,1823.65,1,UPI,0
+5286,Books,18405,4,1,1.0,3.0,2989.12,9,Net Banking,1
+5287,Apparel,15841,4,0,7.3,3.7,2602.12,7,UPI,0
+5288,Apparel,15963,11,1,7.0,5.0,582.44,6,UPI,0
+5289,Beauty,14080,5,0,12.3,3.1,2313.99,8,Cash on Delivery,0
+5290,Electronics,16446,7,4,5.5,4.2,3503.6,9,Credit Card,0
+5291,Books,12616,4,1,13.4,4.9,1502.29,2,UPI,0
+5292,Beauty,14092,6,1,10.6,2.6,2398.96,3,Debit Card,0
+5293,Beauty,19694,5,3,10.5,3.6,4424.62,5,Cash on Delivery,0
+5294,Beauty,10790,7,1,10.0,3.2,3325.31,4,Credit Card,0
+5295,Electronics,16335,3,1,6.1,3.2,825.72,6,Credit Card,0
+5296,Beauty,12497,2,2,5.7,3.0,1305.52,6,Debit Card,0
+5297,Apparel,18433,10,1,10.4,3.2,1695.28,6,Debit Card,0
+5298,Apparel,15780,5,0,10.6,4.2,4561.85,9,Debit Card,0
+5299,Apparel,17749,4,1,1.0,4.2,4193.08,9,UPI,0
+5300,Home Decor,13876,6,1,17.0,4.0,1758.52,2,UPI,1
+5301,Apparel,14805,5,1,13.7,3.2,4211.81,5,UPI,0
+5302,Books,15931,5,0,4.7,4.5,934.2,3,Debit Card,0
+5303,Home Decor,12083,6,1,15.4,5.0,567.76,3,Credit Card,1
+5304,Apparel,18125,3,2,9.9,3.2,4385.89,6,Cash on Delivery,0
+5305,Electronics,16968,4,1,2.6,3.8,1117.69,5,Cash on Delivery,0
+5306,Books,11475,5,0,23.1,4.8,1986.41,3,Net Banking,0
+5307,Apparel,16036,6,1,13.8,4.2,376.05,2,Cash on Delivery,0
+5308,Electronics,17266,8,1,2.2,4.1,3365.73,1,Debit Card,0
+5309,Books,13584,7,1,10.9,5.0,1479.8,3,Credit Card,0
+5310,Home Decor,11273,4,1,1.0,3.3,580.28,7,Credit Card,0
+5311,Home Decor,16024,6,1,7.7,4.3,3854.67,9,Cash on Delivery,1
+5312,Home Decor,19713,12,1,13.9,5.0,3825.21,8,Credit Card,0
+5313,Electronics,14760,4,1,1.8,5.0,4407.8,1,Cash on Delivery,0
+5314,Apparel,17002,4,0,16.4,4.4,1099.13,7,Cash on Delivery,1
+5315,Beauty,15447,6,0,11.7,5.0,2648.9,7,Net Banking,0
+5316,Beauty,12759,7,0,15.9,3.6,3443.28,3,Cash on Delivery,0
+5317,Electronics,12528,8,1,1.6,4.5,2918.15,3,Cash on Delivery,1
+5318,Electronics,17779,6,0,7.3,5.0,1950.82,6,Debit Card,1
+5319,Home Decor,19714,5,1,20.3,4.7,3282.09,9,UPI,0
+5320,Home Decor,15654,11,1,9.8,4.9,3885.44,8,Cash on Delivery,1
+5321,Beauty,13661,4,1,13.3,4.3,1478.98,8,Cash on Delivery,1
+5322,Home Decor,19258,2,0,13.5,2.7,1770.13,8,UPI,0
+5323,Books,18785,3,2,6.5,3.3,4506.51,2,Credit Card,1
+5324,Beauty,14703,6,1,11.3,3.5,3616.25,4,Net Banking,0
+5325,Electronics,12317,3,0,6.7,2.4,1447.66,6,Credit Card,0
+5326,Books,13501,8,0,8.2,4.7,3797.57,4,Credit Card,1
+5327,Beauty,13131,1,1,4.3,4.0,4027.54,6,Cash on Delivery,0
+5328,Books,14049,3,2,18.8,3.8,4087.41,8,Net Banking,1
+5329,Apparel,14970,9,0,9.6,3.1,1846.54,3,Debit Card,0
+5330,Electronics,15492,5,1,10.8,2.0,4916.89,4,Credit Card,1
+5331,Electronics,13191,5,1,14.6,5.0,1367.29,3,Debit Card,1
+5332,Beauty,16511,3,2,7.5,2.8,4672.36,3,UPI,0
+5333,Home Decor,12016,1,1,4.5,5.0,2988.43,4,Debit Card,0
+5334,Home Decor,17308,8,2,3.3,3.2,4833.02,6,Cash on Delivery,1
+5335,Books,15835,6,3,4.4,5.0,161.43,2,Net Banking,1
+5336,Home Decor,16294,8,0,8.4,4.0,2230.95,7,UPI,0
+5337,Electronics,17047,7,2,6.6,4.4,1054.89,5,UPI,0
+5338,Home Decor,10305,5,0,19.7,4.7,1838.71,9,Cash on Delivery,0
+5339,Home Decor,14931,4,1,9.0,4.3,2640.03,7,Cash on Delivery,1
+5340,Books,14665,6,0,16.2,3.7,4031.3,9,UPI,0
+5341,Apparel,11295,4,1,1.4,3.4,2369.91,7,UPI,0
+5342,Books,13556,3,1,8.3,3.7,4922.31,8,Credit Card,0
+5343,Electronics,14746,8,1,7.6,2.4,1871.95,2,UPI,0
+5344,Electronics,11916,6,0,13.8,3.8,2022.56,2,Net Banking,0
+5345,Books,17790,3,1,11.9,2.9,4534.01,5,Cash on Delivery,1
+5346,Electronics,10703,5,0,5.8,3.2,4416.27,1,Net Banking,0
+5347,Books,15666,3,0,15.6,2.6,4870.96,6,Net Banking,0
+5348,Beauty,19835,4,3,7.2,3.9,4022.7,3,Cash on Delivery,0
+5349,Beauty,15453,6,0,12.2,5.0,887.47,5,Credit Card,1
+5350,Apparel,15231,8,0,5.0,4.4,1186.03,4,Debit Card,1
+5351,Beauty,15720,3,1,6.8,1.1,3975.8,9,Net Banking,0
+5352,Electronics,17135,4,1,3.9,3.5,263.09,2,UPI,1
+5353,Beauty,18511,2,1,8.9,4.0,1298.23,9,UPI,0
+5354,Electronics,15366,4,0,11.9,2.5,936.16,3,Net Banking,0
+5355,Electronics,18522,5,0,10.7,4.6,1278.26,2,Credit Card,0
+5356,Books,15333,6,0,4.6,3.6,3471.7,3,UPI,0
+5357,Electronics,12278,5,1,18.1,2.3,4679.04,6,Debit Card,1
+5358,Books,19372,4,0,3.4,3.8,3420.36,7,Cash on Delivery,1
+5359,Beauty,10179,7,3,17.9,4.9,3730.39,6,Cash on Delivery,1
+5360,Beauty,12246,5,0,10.7,4.9,3806.44,4,UPI,1
+5361,Electronics,11363,5,0,10.3,3.0,653.41,9,Net Banking,0
+5362,Beauty,19038,3,1,13.3,3.8,3705.56,7,Debit Card,1
+5363,Books,15472,6,1,7.4,3.4,2113.07,4,Net Banking,0
+5364,Beauty,16001,6,1,12.4,4.3,4165.31,7,Cash on Delivery,0
+5365,Home Decor,15391,7,0,15.7,4.3,2258.46,5,Cash on Delivery,0
+5366,Beauty,13147,1,1,11.0,3.8,3072.11,5,Net Banking,0
+5367,Beauty,13532,6,0,12.1,3.8,3118.4,2,Cash on Delivery,0
+5368,Electronics,16530,6,0,13.6,3.3,2489.65,2,UPI,1
+5369,Electronics,16630,6,1,14.7,3.8,2550.2,8,Debit Card,0
+5370,Beauty,17862,4,2,9.2,4.0,3949.73,5,Debit Card,0
+5371,Electronics,17878,5,1,12.3,4.7,2767.97,7,UPI,0
+5372,Beauty,11488,3,0,8.2,5.0,1514.64,3,UPI,0
+5373,Books,19353,6,0,11.0,4.5,3671.76,1,Debit Card,1
+5374,Beauty,19794,7,1,13.1,2.6,2407.33,2,Credit Card,1
+5375,Electronics,15435,5,1,7.5,3.8,3163.05,2,Debit Card,0
+5376,Electronics,17740,3,1,4.6,5.0,2275.27,5,Credit Card,0
+5377,Beauty,12195,5,2,4.2,2.7,4794.95,8,Credit Card,0
+5378,Electronics,15672,9,0,5.1,3.3,311.28,5,Cash on Delivery,0
+5379,Home Decor,17708,6,2,14.9,4.8,3841.01,4,Cash on Delivery,0
+5380,Books,18746,3,0,9.2,3.4,2847.97,2,Cash on Delivery,0
+5381,Apparel,10368,2,1,12.7,4.1,2289.94,3,Net Banking,0
+5382,Electronics,12448,6,2,15.8,5.0,1406.24,5,Debit Card,0
+5383,Apparel,16148,6,0,11.7,4.5,266.62,4,Credit Card,0
+5384,Electronics,18838,4,2,9.8,2.3,998.58,6,Net Banking,1
+5385,Electronics,17358,7,1,11.9,4.3,4323.16,7,Credit Card,0
+5386,Beauty,19453,4,2,6.1,3.6,1582.1,7,Debit Card,0
+5387,Home Decor,16192,0,1,11.6,4.3,570.31,5,Debit Card,0
+5388,Electronics,16530,6,1,13.1,2.5,3356.21,9,Net Banking,0
+5389,Apparel,19722,7,3,5.0,5.0,3734.91,5,Cash on Delivery,1
+5390,Beauty,19380,8,2,3.2,3.8,3295.43,4,Net Banking,0
+5391,Books,17746,8,0,7.9,5.0,4352.92,6,Credit Card,0
+5392,Electronics,11153,1,0,6.1,3.9,1877.35,8,Credit Card,0
+5393,Electronics,13675,6,1,12.0,5.0,2381.42,6,Credit Card,0
+5394,Books,13158,4,0,9.5,4.7,1371.59,7,UPI,1
+5395,Apparel,13932,11,2,3.7,4.3,1648.61,6,UPI,0
+5396,Books,14683,7,3,23.0,3.1,4679.03,9,UPI,1
+5397,Apparel,10164,4,0,14.9,5.0,853.64,7,Net Banking,0
+5398,Electronics,18832,6,2,5.5,3.0,2619.63,9,Credit Card,0
+5399,Electronics,10103,3,0,10.1,4.1,2045.61,3,Net Banking,1
+5400,Home Decor,11064,4,2,9.3,4.2,1116.26,5,Credit Card,0
+5401,Books,15806,8,4,16.2,5.0,1204.42,4,Debit Card,0
+5402,Electronics,10897,6,1,12.6,3.6,1104.9,7,Debit Card,1
+5403,Electronics,13891,6,0,15.6,4.1,4354.98,6,Credit Card,0
+5404,Electronics,14140,8,1,8.0,4.5,307.89,5,Cash on Delivery,1
+5405,Apparel,14670,6,0,13.8,3.2,1866.97,6,Net Banking,0
+5406,Apparel,15353,4,0,9.6,3.4,467.83,6,Cash on Delivery,1
+5407,Books,17965,4,1,12.6,4.8,1369.14,3,Cash on Delivery,0
+5408,Beauty,18366,4,1,7.2,3.9,1840.84,4,Net Banking,1
+5409,Books,11475,2,0,6.5,3.2,4637.51,7,Net Banking,0
+5410,Beauty,14427,7,1,14.1,4.4,4642.69,9,UPI,0
+5411,Apparel,10764,8,0,15.2,4.6,1118.2,1,Debit Card,0
+5412,Books,19291,7,0,16.8,4.5,644.11,4,Cash on Delivery,0
+5413,Apparel,18904,4,0,9.6,5.0,2864.32,7,Net Banking,0
+5414,Electronics,14719,6,0,18.8,3.2,3416.67,1,Cash on Delivery,0
+5415,Apparel,12851,2,1,1.0,3.4,1295.52,9,Cash on Delivery,0
+5416,Electronics,13959,5,0,12.4,4.8,1891.57,5,Credit Card,0
+5417,Apparel,11875,6,3,6.7,2.4,2394.73,3,Net Banking,0
+5418,Home Decor,19134,4,2,10.9,3.9,3857.79,3,Credit Card,0
+5419,Electronics,11888,3,1,6.4,4.5,4865.75,6,Net Banking,0
+5420,Books,16724,9,1,9.2,4.9,2933.44,1,Cash on Delivery,0
+5421,Electronics,13531,3,0,17.4,3.5,867.4,6,Credit Card,1
+5422,Books,18874,2,0,11.3,3.5,906.46,9,Net Banking,0
+5423,Home Decor,13557,5,2,5.9,4.7,2958.89,1,Credit Card,0
+5424,Beauty,17481,7,0,11.6,3.6,3198.28,8,UPI,0
+5425,Apparel,10218,6,2,10.8,2.7,3766.13,5,Credit Card,0
+5426,Home Decor,11170,2,3,1.4,3.3,2490.29,7,Net Banking,0
+5427,Beauty,10959,5,1,12.3,3.1,3630.14,9,UPI,1
+5428,Books,14491,7,0,13.9,4.2,4897.05,7,Debit Card,0
+5429,Books,16461,3,1,4.7,5.0,2718.15,7,Credit Card,0
+5430,Electronics,10673,4,3,3.2,2.4,3457.3,1,Cash on Delivery,1
+5431,Electronics,19196,4,2,17.6,5.0,4892.44,3,UPI,0
+5432,Electronics,14487,4,0,12.5,2.3,2011.27,1,Cash on Delivery,0
+5433,Home Decor,11009,2,1,8.7,3.4,2395.69,6,Cash on Delivery,0
+5434,Books,15448,7,0,8.8,5.0,1657.41,3,Credit Card,1
+5435,Home Decor,19636,4,1,4.1,2.8,176.47,6,Cash on Delivery,0
+5436,Apparel,11238,5,1,6.3,5.0,3855.59,3,Debit Card,0
+5437,Books,13820,1,1,3.8,3.7,2486.91,3,Net Banking,0
+5438,Beauty,12221,3,1,10.2,3.5,1321.6,7,Credit Card,0
+5439,Home Decor,10010,7,3,8.8,3.3,1111.39,9,UPI,0
+5440,Books,19332,4,2,15.3,3.7,4652.18,7,Net Banking,1
+5441,Books,12137,6,1,5.0,4.0,2684.61,3,Debit Card,0
+5442,Apparel,16718,2,0,14.2,4.7,1420.8,8,Debit Card,0
+5443,Home Decor,19190,5,0,11.3,4.6,4097.21,1,Credit Card,0
+5444,Home Decor,18849,3,1,15.9,5.0,1188.1,5,Debit Card,0
+5445,Electronics,15539,4,0,3.5,5.0,490.58,5,Debit Card,0
+5446,Electronics,11811,5,1,13.7,4.7,527.18,8,Net Banking,0
+5447,Books,10173,6,1,15.7,4.5,1843.96,6,UPI,0
+5448,Books,10576,1,0,5.0,4.4,1083.03,7,Debit Card,1
+5449,Apparel,15386,6,2,4.1,2.5,3492.84,7,Cash on Delivery,0
+5450,Electronics,11935,9,1,5.5,4.7,4500.56,9,UPI,0
+5451,Books,10775,6,1,9.4,3.7,4737.36,2,Credit Card,0
+5452,Beauty,17586,10,1,19.3,4.3,2275.45,3,UPI,0
+5453,Home Decor,12800,4,0,8.6,4.9,2510.81,3,Debit Card,0
+5454,Books,16038,4,1,12.4,3.8,4667.56,6,Debit Card,0
+5455,Apparel,13939,1,0,20.2,3.4,3000.22,8,Net Banking,0
+5456,Home Decor,11245,4,1,14.5,5.0,1642.14,3,Debit Card,0
+5457,Home Decor,18586,2,3,2.3,5.0,4739.76,8,Cash on Delivery,1
+5458,Apparel,13994,7,2,4.5,3.0,2397.41,9,UPI,0
+5459,Home Decor,10025,9,2,11.6,3.9,1341.78,9,Cash on Delivery,0
+5460,Electronics,11389,6,3,9.6,4.0,2485.45,3,Cash on Delivery,0
+5461,Apparel,13617,5,0,10.1,3.5,273.73,1,Cash on Delivery,0
+5462,Books,16001,3,1,11.4,5.0,4810.84,2,Net Banking,0
+5463,Beauty,13461,7,1,4.0,5.0,4933.48,5,Net Banking,0
+5464,Home Decor,17767,5,1,9.6,3.8,4846.93,1,Net Banking,0
+5465,Beauty,12758,6,0,10.8,4.3,3111.81,6,Cash on Delivery,0
+5466,Beauty,10465,3,1,12.6,3.1,4511.54,8,UPI,1
+5467,Beauty,12388,2,1,5.9,4.4,4011.55,6,Cash on Delivery,1
+5468,Beauty,13859,4,2,5.8,4.2,3124.04,9,Net Banking,0
+5469,Home Decor,18407,5,1,9.1,5.0,808.39,5,Cash on Delivery,1
+5470,Books,13928,6,0,7.5,5.0,2644.71,1,Cash on Delivery,0
+5471,Books,13876,4,2,2.2,5.0,2300.08,3,Debit Card,0
+5472,Apparel,17556,9,0,1.0,4.5,3491.3,4,UPI,0
+5473,Electronics,17955,1,1,17.2,3.4,1037.62,5,Credit Card,1
+5474,Electronics,10344,3,1,3.2,5.0,2372.68,5,Cash on Delivery,1
+5475,Beauty,19421,4,2,7.5,2.6,4856.96,2,UPI,0
+5476,Beauty,12898,4,1,2.3,3.6,4482.21,2,Cash on Delivery,1
+5477,Home Decor,13347,6,2,11.9,4.7,4631.18,2,Debit Card,0
+5478,Apparel,13199,5,3,6.9,3.9,4405.83,3,Debit Card,0
+5479,Books,18208,6,3,5.3,4.9,4026.59,6,Debit Card,1
+5480,Home Decor,16703,6,1,11.2,5.0,1208.37,6,UPI,0
+5481,Home Decor,16100,2,0,7.0,4.3,4937.0,4,Net Banking,0
+5482,Beauty,13565,4,0,1.0,3.3,159.03,7,Net Banking,1
+5483,Home Decor,17697,5,2,1.1,5.0,1262.25,6,Credit Card,0
+5484,Electronics,16695,7,1,5.5,4.4,4164.77,2,Debit Card,0
+5485,Books,11166,4,1,13.1,3.4,3492.04,9,Credit Card,0
+5486,Home Decor,15904,10,1,15.9,4.1,2273.85,8,Credit Card,0
+5487,Electronics,12849,10,1,9.2,3.7,4415.68,8,Credit Card,1
+5488,Books,13758,5,4,11.1,3.0,3957.24,4,Cash on Delivery,1
+5489,Electronics,18889,3,2,8.2,3.5,1937.77,9,Debit Card,0
+5490,Beauty,10199,6,1,26.7,5.0,3100.01,9,UPI,0
+5491,Home Decor,19512,8,1,14.1,5.0,870.43,4,Net Banking,0
+5492,Beauty,18855,4,0,5.5,3.9,3163.81,3,Credit Card,0
+5493,Books,10372,5,1,12.3,4.8,355.52,6,UPI,1
+5494,Beauty,10725,2,1,16.9,3.0,1025.17,5,Net Banking,0
+5495,Apparel,18269,7,0,1.0,3.4,2153.65,8,Credit Card,0
+5496,Electronics,15918,9,1,18.5,3.8,1180.77,6,Debit Card,1
+5497,Electronics,18999,2,0,21.8,3.3,3848.36,4,Net Banking,0
+5498,Apparel,17554,5,0,3.5,3.8,1265.22,8,Credit Card,1
+5499,Apparel,11811,2,0,14.5,2.4,592.9,4,Net Banking,0
+5500,Beauty,18511,9,2,9.3,4.3,4920.19,2,Net Banking,1
+5501,Home Decor,18957,6,1,6.5,4.6,687.29,4,UPI,0
+5502,Books,16991,5,2,14.6,4.4,1533.3,7,UPI,0
+5503,Home Decor,17651,4,2,13.9,5.0,410.01,5,UPI,0
+5504,Electronics,15358,4,0,13.5,3.1,4584.46,8,Debit Card,1
+5505,Books,19052,8,0,7.0,3.6,4005.65,5,Net Banking,0
+5506,Home Decor,19954,7,0,7.9,4.4,3392.71,9,Cash on Delivery,0
+5507,Beauty,11332,12,2,7.6,4.1,3368.76,1,UPI,0
+5508,Books,10378,4,3,9.7,3.1,2224.17,1,UPI,0
+5509,Books,19683,5,1,5.9,4.2,2301.4,1,Credit Card,1
+5510,Home Decor,15010,4,0,5.5,4.6,205.75,7,Net Banking,0
+5511,Apparel,14375,3,1,6.1,4.0,3612.7,1,UPI,0
+5512,Beauty,12440,5,0,9.9,4.2,4487.11,6,UPI,0
+5513,Books,11423,6,1,8.8,3.7,707.47,2,Debit Card,0
+5514,Electronics,12349,2,1,19.3,3.8,2311.14,6,Credit Card,0
+5515,Books,15235,2,1,9.8,3.1,1689.2,8,Net Banking,0
+5516,Electronics,16479,1,0,10.5,3.4,4209.92,1,Net Banking,0
+5517,Books,11307,5,2,11.9,3.9,2726.07,8,Net Banking,1
+5518,Home Decor,12139,5,0,9.3,1.9,2349.75,7,Credit Card,1
+5519,Beauty,13661,5,0,16.7,4.9,684.96,3,Debit Card,0
+5520,Apparel,17430,7,3,7.3,3.2,133.91,1,UPI,0
+5521,Books,15735,7,0,14.1,3.1,3108.01,5,Cash on Delivery,1
+5522,Home Decor,11221,4,0,2.2,4.1,1409.78,4,Net Banking,1
+5523,Home Decor,17237,5,1,16.5,3.7,3805.72,3,Cash on Delivery,0
+5524,Beauty,17161,8,2,4.7,4.1,265.03,1,Debit Card,0
+5525,Beauty,19752,3,1,13.7,2.9,3891.43,5,Credit Card,0
+5526,Home Decor,12643,7,1,19.6,5.0,1870.46,4,Credit Card,0
+5527,Home Decor,14943,9,1,15.8,3.8,845.42,5,Credit Card,1
+5528,Books,12039,4,2,9.3,1.9,644.58,5,Net Banking,0
+5529,Beauty,10973,3,2,13.1,4.1,1796.36,6,UPI,0
+5530,Books,10091,6,1,13.6,4.2,4406.93,2,Cash on Delivery,1
+5531,Beauty,16919,2,1,8.5,4.7,2568.04,4,UPI,1
+5532,Beauty,11916,4,1,16.6,3.2,4520.3,3,Debit Card,0
+5533,Books,11951,6,3,7.4,4.3,4242.76,4,Debit Card,0
+5534,Electronics,16777,3,3,5.1,4.0,4522.07,9,Net Banking,0
+5535,Home Decor,16017,7,2,8.4,5.0,2196.69,6,UPI,0
+5536,Apparel,17704,6,1,8.2,4.0,159.99,9,Net Banking,0
+5537,Electronics,14395,4,2,3.3,4.7,743.52,9,Credit Card,0
+5538,Apparel,12507,5,2,14.1,4.3,635.63,4,Cash on Delivery,0
+5539,Apparel,19730,5,1,5.3,4.7,2158.48,1,UPI,0
+5540,Books,16240,8,0,1.7,4.6,215.49,3,Cash on Delivery,0
+5541,Electronics,13387,4,2,16.5,3.4,404.22,3,Net Banking,0
+5542,Electronics,18679,5,1,6.8,3.0,622.07,8,UPI,0
+5543,Books,18129,8,3,8.2,3.5,1491.22,7,UPI,0
+5544,Beauty,10649,3,1,2.5,2.1,1905.74,3,Debit Card,0
+5545,Home Decor,10502,4,0,11.6,2.8,541.3,5,Credit Card,0
+5546,Electronics,12914,2,0,8.1,3.8,3839.98,7,Debit Card,0
+5547,Home Decor,11897,3,0,7.2,3.3,1757.87,2,Net Banking,1
+5548,Beauty,13436,8,3,13.1,5.0,638.48,2,Credit Card,0
+5549,Apparel,15747,6,1,16.5,5.0,460.6,1,Debit Card,0
+5550,Apparel,11056,3,2,10.8,4.9,4417.7,8,Credit Card,0
+5551,Beauty,13566,3,0,5.5,5.0,204.07,7,Credit Card,0
+5552,Electronics,15490,4,0,20.0,4.7,1790.93,4,Cash on Delivery,0
+5553,Apparel,17217,1,2,11.9,4.3,238.79,5,Debit Card,0
+5554,Books,14701,5,0,19.6,5.0,3107.72,2,Debit Card,1
+5555,Books,19603,7,2,11.6,5.0,4453.03,3,Cash on Delivery,1
+5556,Books,16247,0,2,6.6,4.0,228.84,6,Net Banking,0
+5557,Home Decor,14833,4,2,10.1,3.9,4103.91,2,Cash on Delivery,0
+5558,Books,11554,8,0,3.0,4.2,3410.63,1,Cash on Delivery,0
+5559,Beauty,13878,8,0,7.3,4.0,256.38,9,Net Banking,0
+5560,Books,11980,6,1,15.9,4.0,2129.98,3,Credit Card,1
+5561,Electronics,10497,2,3,18.0,4.9,3292.35,3,Credit Card,0
+5562,Electronics,15591,5,0,8.0,3.6,237.76,4,Cash on Delivery,0
+5563,Beauty,11004,7,0,11.4,4.5,4136.56,2,UPI,0
+5564,Books,15265,4,1,8.9,5.0,3260.28,8,Net Banking,0
+5565,Home Decor,17957,2,0,7.0,3.7,3275.85,6,UPI,0
+5566,Books,10231,1,1,5.6,2.7,664.58,3,Credit Card,1
+5567,Electronics,15112,7,0,8.6,3.8,2160.89,1,Cash on Delivery,0
+5568,Electronics,11503,7,1,9.6,4.6,3561.13,8,Credit Card,1
+5569,Home Decor,14568,6,1,11.0,4.9,1545.98,8,Debit Card,0
+5570,Books,17962,5,0,17.7,2.8,4980.84,7,Cash on Delivery,0
+5571,Beauty,19975,3,0,13.5,5.0,4603.2,4,Debit Card,0
+5572,Electronics,13764,6,1,24.5,2.9,2032.03,1,Net Banking,1
+5573,Apparel,18891,2,1,4.4,4.6,4776.63,9,Net Banking,1
+5574,Books,16975,4,1,10.6,4.1,4087.49,1,Debit Card,0
+5575,Books,11545,7,1,12.7,3.6,3535.79,7,UPI,0
+5576,Apparel,18650,9,2,3.4,3.6,4624.11,4,UPI,1
+5577,Apparel,17174,4,2,12.5,3.9,3830.09,6,Cash on Delivery,0
+5578,Electronics,16828,1,2,6.5,3.9,2045.36,4,UPI,0
+5579,Electronics,14372,7,2,9.3,4.4,3934.39,8,Cash on Delivery,1
+5580,Apparel,14963,2,2,6.9,3.4,4480.31,7,Debit Card,0
+5581,Books,13729,7,1,17.0,5.0,4976.34,5,Debit Card,1
+5582,Books,17891,6,2,6.3,2.7,2385.41,5,Net Banking,0
+5583,Home Decor,12800,2,2,12.7,3.5,4254.59,1,Cash on Delivery,0
+5584,Beauty,16057,7,0,8.2,5.0,2150.51,7,Cash on Delivery,0
+5585,Electronics,16759,8,1,14.1,5.0,801.59,4,Cash on Delivery,1
+5586,Apparel,16033,8,1,3.2,5.0,1893.66,7,Net Banking,1
+5587,Electronics,17695,3,0,11.2,4.8,754.28,7,Net Banking,0
+5588,Beauty,16820,5,0,10.7,4.7,3493.98,3,Credit Card,1
+5589,Books,13042,9,0,6.1,2.8,1424.3,1,Credit Card,0
+5590,Apparel,19935,4,2,19.5,3.7,1575.04,7,Net Banking,1
+5591,Electronics,17533,7,1,9.6,4.9,4890.97,2,Net Banking,1
+5592,Home Decor,12792,5,0,2.7,4.5,2036.23,2,Cash on Delivery,0
+5593,Apparel,19469,6,0,11.0,2.7,1985.33,4,Net Banking,0
+5594,Apparel,19234,6,1,7.3,3.2,2437.66,3,Net Banking,0
+5595,Home Decor,14747,2,2,8.9,5.0,4760.01,3,Cash on Delivery,0
+5596,Home Decor,17177,3,3,11.3,3.9,2412.08,1,UPI,0
+5597,Home Decor,16611,4,1,8.4,4.2,3357.54,7,Net Banking,0
+5598,Home Decor,11679,4,0,4.9,4.6,1979.15,3,UPI,0
+5599,Electronics,16861,6,0,12.8,2.7,1202.84,8,Net Banking,0
+5600,Beauty,15758,4,0,1.0,3.9,727.54,9,Credit Card,1
+5601,Apparel,12163,3,1,20.0,2.4,692.53,8,Debit Card,0
+5602,Beauty,19217,4,1,7.7,3.6,2062.33,5,Credit Card,1
+5603,Home Decor,18028,8,0,4.3,4.3,4076.83,7,Cash on Delivery,0
+5604,Home Decor,16340,5,1,13.1,3.4,3972.65,5,Cash on Delivery,0
+5605,Home Decor,17444,8,1,14.8,3.9,4749.26,4,Net Banking,0
+5606,Home Decor,17419,5,0,5.2,5.0,369.13,5,Credit Card,0
+5607,Electronics,14808,2,1,27.4,3.6,2635.78,5,Debit Card,0
+5608,Books,13533,4,0,5.4,4.2,4201.58,7,Debit Card,0
+5609,Electronics,19943,4,1,3.2,3.9,961.74,5,Credit Card,1
+5610,Home Decor,15074,3,0,2.9,4.1,3643.65,4,Credit Card,0
+5611,Electronics,15829,3,0,5.9,4.5,4153.16,8,Cash on Delivery,0
+5612,Apparel,10529,3,2,7.9,3.5,2538.14,9,Cash on Delivery,0
+5613,Beauty,12916,5,1,10.4,3.8,3884.42,7,Cash on Delivery,0
+5614,Home Decor,14386,8,3,1.0,4.4,4339.87,3,Debit Card,0
+5615,Apparel,12234,10,1,6.0,4.4,3150.01,2,Debit Card,0
+5616,Beauty,13160,3,1,6.0,2.9,3747.6,7,Net Banking,0
+5617,Electronics,12664,9,0,13.5,4.0,3473.08,1,Cash on Delivery,0
+5618,Beauty,19613,9,0,16.0,5.0,2207.72,8,UPI,1
+5619,Electronics,15556,8,1,14.0,4.2,1414.91,2,Cash on Delivery,1
+5620,Beauty,10399,4,1,12.3,3.8,1081.02,1,Net Banking,0
+5621,Home Decor,13521,3,1,15.9,3.9,2034.75,4,UPI,0
+5622,Home Decor,19707,7,0,8.1,4.9,993.53,8,Net Banking,0
+5623,Electronics,14430,7,2,5.4,3.2,4168.6,3,Net Banking,0
+5624,Beauty,16743,5,0,13.8,3.5,2369.65,4,Net Banking,0
+5625,Electronics,16487,9,1,18.0,2.3,3356.0,9,UPI,0
+5626,Home Decor,14627,4,0,13.0,3.7,3578.93,9,Cash on Delivery,0
+5627,Books,19094,2,1,7.9,4.6,3413.11,4,Debit Card,0
+5628,Home Decor,15285,10,0,15.6,4.2,3965.65,6,Debit Card,0
+5629,Books,10838,8,0,18.1,2.8,843.72,9,Debit Card,0
+5630,Books,12381,2,0,2.1,4.1,3326.14,9,Debit Card,1
+5631,Electronics,13040,7,1,11.6,3.9,968.32,2,Net Banking,0
+5632,Books,14271,2,0,10.6,4.5,4401.44,6,UPI,1
+5633,Apparel,12221,4,3,7.4,4.4,1607.88,7,Net Banking,1
+5634,Books,14860,2,1,2.9,4.8,393.64,6,Cash on Delivery,0
+5635,Home Decor,14175,4,2,9.1,2.9,4009.79,7,Net Banking,0
+5636,Electronics,11951,4,0,9.7,3.6,2826.34,3,Credit Card,1
+5637,Home Decor,18492,7,0,1.0,3.7,868.65,9,UPI,0
+5638,Beauty,10868,2,0,4.0,4.6,1410.76,6,Net Banking,0
+5639,Home Decor,14481,5,0,6.3,3.0,272.84,7,Net Banking,0
+5640,Apparel,11673,8,1,7.1,3.7,3736.79,8,Credit Card,1
+5641,Beauty,16558,6,1,6.8,5.0,3872.09,5,Debit Card,0
+5642,Books,19946,3,1,11.6,5.0,3419.99,8,Net Banking,1
+5643,Beauty,13879,4,0,5.9,3.5,795.44,5,Debit Card,0
+5644,Books,19635,6,0,14.8,2.8,136.49,3,Net Banking,0
+5645,Home Decor,18688,6,0,16.5,2.8,422.39,3,UPI,0
+5646,Electronics,10111,5,2,19.7,3.5,3751.85,2,Debit Card,0
+5647,Electronics,15853,3,0,7.0,5.0,4362.22,8,Net Banking,0
+5648,Home Decor,10514,4,0,14.4,4.5,2260.7,8,Debit Card,0
+5649,Apparel,19483,5,1,11.4,3.6,4577.2,1,Credit Card,1
+5650,Books,11379,4,2,12.7,3.5,4452.78,5,Cash on Delivery,0
+5651,Home Decor,18439,4,3,17.0,4.1,3097.62,8,UPI,1
+5652,Electronics,13638,6,1,21.0,5.0,1569.75,8,Credit Card,0
+5653,Beauty,11605,3,1,9.0,3.7,1122.11,4,Cash on Delivery,0
+5654,Home Decor,17243,8,0,7.9,3.7,4894.42,7,Cash on Delivery,1
+5655,Books,15370,3,0,1.5,5.0,3962.44,6,Cash on Delivery,0
+5656,Books,11133,6,0,11.8,2.9,3623.78,8,Credit Card,0
+5657,Home Decor,12965,5,1,10.7,3.0,4915.85,3,UPI,1
+5658,Electronics,11227,5,0,14.4,4.5,3524.88,7,Cash on Delivery,0
+5659,Home Decor,19909,7,0,7.1,4.2,299.57,2,Debit Card,0
+5660,Books,15848,5,2,14.0,4.6,2769.39,8,Debit Card,0
+5661,Beauty,17443,7,0,10.4,4.6,1088.54,9,UPI,0
+5662,Apparel,13015,1,0,16.8,3.6,2890.18,6,Credit Card,0
+5663,Beauty,14659,7,0,17.6,4.9,3226.18,1,Debit Card,1
+5664,Books,16153,4,2,15.1,5.0,4145.99,8,UPI,0
+5665,Apparel,16132,6,0,8.7,3.7,1558.33,6,UPI,0
+5666,Books,16968,7,0,10.6,4.4,3151.32,7,Debit Card,1
+5667,Books,17384,4,0,14.4,4.6,1038.2,8,Credit Card,0
+5668,Home Decor,12385,7,3,17.2,2.9,1535.9,7,UPI,0
+5669,Electronics,19371,6,0,9.8,3.3,805.94,3,UPI,0
+5670,Apparel,18761,4,1,3.4,5.0,4913.88,2,UPI,0
+5671,Home Decor,15727,1,1,9.4,5.0,3007.23,5,Cash on Delivery,1
+5672,Beauty,11048,5,1,4.7,4.0,1781.63,1,Cash on Delivery,1
+5673,Apparel,14059,5,0,14.3,5.0,2089.79,2,Cash on Delivery,0
+5674,Electronics,19028,3,2,1.9,2.7,1467.86,2,UPI,0
+5675,Electronics,10141,5,1,4.7,5.0,4496.38,2,Debit Card,0
+5676,Apparel,11574,6,2,14.7,4.6,4647.15,1,Net Banking,0
+5677,Electronics,10349,3,0,16.2,1.2,102.14,3,UPI,1
+5678,Beauty,10535,5,0,13.8,2.4,482.78,7,Credit Card,0
+5679,Books,17220,4,1,12.0,5.0,2167.75,8,Net Banking,0
+5680,Books,11010,5,0,5.5,4.9,1150.36,3,Cash on Delivery,0
+5681,Apparel,13728,7,0,14.2,3.9,4994.18,5,Debit Card,0
+5682,Home Decor,19334,7,0,7.5,4.8,2090.21,6,UPI,1
+5683,Beauty,10108,5,2,7.1,2.6,1240.61,5,Debit Card,1
+5684,Beauty,17032,2,0,8.0,4.6,1902.85,3,Debit Card,0
+5685,Books,13129,4,1,11.2,4.6,1841.81,4,Net Banking,0
+5686,Books,12336,6,0,7.9,5.0,1128.37,9,Net Banking,1
+5687,Electronics,14973,5,0,6.5,2.0,2225.27,2,Cash on Delivery,0
+5688,Apparel,10045,1,0,3.7,5.0,3669.53,3,Cash on Delivery,0
+5689,Apparel,18588,4,0,8.9,5.0,412.17,1,UPI,0
+5690,Apparel,13001,4,1,1.0,4.0,1860.08,6,Debit Card,1
+5691,Electronics,13294,5,1,14.0,5.0,4967.14,3,UPI,0
+5692,Home Decor,13798,2,3,3.3,3.8,4363.54,3,Cash on Delivery,0
+5693,Home Decor,14475,9,1,11.5,4.2,442.02,5,UPI,0
+5694,Home Decor,17533,7,3,18.3,4.0,968.32,7,Net Banking,1
+5695,Books,14166,9,1,11.7,4.7,1167.79,3,Net Banking,1
+5696,Books,18359,1,1,9.6,2.9,1285.06,3,Cash on Delivery,0
+5697,Electronics,12817,5,2,17.6,5.0,3148.85,4,Cash on Delivery,1
+5698,Apparel,18365,5,2,6.6,5.0,270.97,4,Credit Card,0
+5699,Electronics,18697,4,2,8.0,4.3,4714.48,3,UPI,0
+5700,Home Decor,14981,7,1,10.9,2.2,2951.82,7,Debit Card,1
+5701,Electronics,19920,2,1,12.1,1.6,3356.2,4,Net Banking,0
+5702,Books,16851,7,0,13.9,3.3,3593.26,2,UPI,0
+5703,Books,10352,5,2,7.6,4.3,3934.01,3,Credit Card,0
+5704,Electronics,10742,5,0,10.3,5.0,1099.81,6,UPI,0
+5705,Apparel,10590,5,1,12.6,3.6,390.79,7,Net Banking,0
+5706,Apparel,19717,7,0,12.4,3.1,761.63,3,UPI,0
+5707,Books,13629,4,0,13.0,4.1,1890.0,2,Net Banking,0
+5708,Apparel,13909,6,1,7.9,4.1,4534.28,2,Cash on Delivery,0
+5709,Beauty,14241,7,0,17.9,3.1,395.35,8,Cash on Delivery,0
+5710,Beauty,19937,3,1,17.1,3.5,239.21,6,Credit Card,1
+5711,Electronics,17142,7,0,11.9,3.7,3904.69,4,Credit Card,0
+5712,Beauty,12313,6,0,9.0,5.0,511.4,5,Cash on Delivery,0
+5713,Beauty,13533,1,1,12.7,5.0,1329.25,8,Credit Card,1
+5714,Beauty,16006,9,2,18.2,5.0,756.65,7,UPI,1
+5715,Electronics,17498,5,1,3.6,5.0,280.77,8,Net Banking,1
+5716,Electronics,10059,5,2,4.7,4.2,1773.12,4,Debit Card,0
+5717,Home Decor,17793,5,0,14.6,1.0,2406.49,1,Net Banking,0
+5718,Books,17376,7,0,8.2,3.5,825.99,2,Debit Card,0
+5719,Electronics,15138,8,1,14.2,4.1,2497.63,4,UPI,0
+5720,Apparel,12430,5,3,10.1,3.4,4288.37,8,Credit Card,1
+5721,Electronics,15100,3,2,6.9,3.1,745.33,8,Debit Card,1
+5722,Apparel,12951,3,3,12.1,3.4,2882.88,1,Net Banking,0
+5723,Home Decor,11961,3,0,4.3,4.4,3866.14,5,Cash on Delivery,0
+5724,Apparel,17814,4,0,13.6,4.0,2230.3,7,Cash on Delivery,0
+5725,Beauty,19420,2,3,11.8,5.0,485.4,7,Debit Card,0
+5726,Books,16579,10,1,1.4,1.6,3059.63,8,Debit Card,1
+5727,Books,18661,7,3,3.9,5.0,2427.37,4,Credit Card,1
+5728,Beauty,11893,3,0,4.4,4.0,4192.05,6,Net Banking,0
+5729,Apparel,16254,3,1,16.9,4.2,1480.69,6,Net Banking,0
+5730,Books,19857,3,1,18.5,4.5,2105.38,1,Net Banking,0
+5731,Home Decor,11643,4,0,5.5,5.0,1615.44,8,UPI,1
+5732,Apparel,17669,6,1,1.0,4.2,2471.47,6,Debit Card,0
+5733,Apparel,13285,10,1,1.0,3.4,883.54,2,UPI,0
+5734,Home Decor,12791,4,0,12.8,2.3,2206.34,5,Debit Card,0
+5735,Beauty,18774,8,1,9.9,4.1,2551.98,3,Cash on Delivery,0
+5736,Beauty,13068,7,1,9.2,1.6,414.9,9,Cash on Delivery,0
+5737,Apparel,11017,3,1,6.1,5.0,4044.71,3,Credit Card,0
+5738,Apparel,11387,8,1,13.1,2.7,2849.0,7,Debit Card,0
+5739,Beauty,17421,6,2,6.7,5.0,834.4,2,Credit Card,0
+5740,Apparel,19704,4,1,14.3,3.2,3074.9,5,Debit Card,1
+5741,Home Decor,19870,4,2,12.0,4.0,2420.18,6,Debit Card,0
+5742,Beauty,12804,5,1,14.6,3.6,3630.76,4,Credit Card,0
+5743,Beauty,17569,7,2,6.0,3.6,4155.51,5,UPI,0
+5744,Apparel,16015,7,0,10.1,3.4,1185.52,6,Net Banking,0
+5745,Books,19567,8,1,7.3,4.0,3530.04,4,Debit Card,1
+5746,Apparel,19402,7,1,9.6,4.5,3820.2,9,Cash on Delivery,1
+5747,Apparel,14029,7,1,1.3,5.0,2002.13,6,Debit Card,0
+5748,Electronics,12222,1,3,22.1,1.6,4975.44,8,UPI,0
+5749,Home Decor,10074,6,1,1.0,2.6,2201.52,7,UPI,0
+5750,Beauty,12337,2,0,9.9,5.0,1918.16,9,Debit Card,0
+5751,Home Decor,13665,3,1,9.4,4.1,4711.19,2,UPI,1
+5752,Home Decor,19510,7,1,9.6,2.6,1906.28,5,Debit Card,0
+5753,Apparel,16566,6,0,9.4,5.0,4932.87,6,Debit Card,0
+5754,Apparel,14940,4,0,2.4,4.0,1205.49,9,Credit Card,0
+5755,Beauty,14855,4,1,9.4,4.1,2222.44,3,Debit Card,1
+5756,Beauty,15378,4,1,1.1,2.4,208.34,2,Net Banking,0
+5757,Beauty,16001,7,0,7.7,5.0,410.78,9,Debit Card,0
+5758,Electronics,12323,1,1,7.6,4.7,4903.87,7,Debit Card,0
+5759,Beauty,18259,4,0,2.7,5.0,3910.46,1,Cash on Delivery,0
+5760,Apparel,17320,3,2,16.4,4.5,4075.7,1,Cash on Delivery,0
+5761,Home Decor,11120,4,4,1.0,5.0,4548.92,1,UPI,0
+5762,Electronics,15869,6,3,10.7,3.6,3155.1,4,Credit Card,0
+5763,Books,17480,8,1,16.1,4.3,3751.14,4,Credit Card,1
+5764,Apparel,19765,4,1,12.2,3.6,4976.45,2,UPI,1
+5765,Electronics,14244,8,2,4.8,2.0,4665.11,6,Net Banking,0
+5766,Books,13483,11,1,6.8,4.2,4811.41,6,Debit Card,1
+5767,Beauty,12998,5,0,15.2,3.0,2835.78,4,Net Banking,0
+5768,Electronics,16437,3,0,12.0,4.4,4238.75,8,UPI,0
+5769,Apparel,12171,2,0,6.3,3.6,3011.31,7,Debit Card,0
+5770,Books,10107,5,1,8.0,3.4,4316.27,2,UPI,0
+5771,Apparel,17107,3,1,16.0,5.0,2085.58,2,Cash on Delivery,0
+5772,Beauty,17157,4,0,1.0,4.9,4663.12,6,Debit Card,0
+5773,Apparel,17108,4,1,10.9,2.4,1366.57,7,Cash on Delivery,0
+5774,Electronics,14553,6,1,4.0,4.0,2931.57,2,Debit Card,1
+5775,Books,14644,4,2,16.7,4.0,2959.59,1,Cash on Delivery,0
+5776,Home Decor,10101,4,1,6.6,3.8,498.8,9,Net Banking,0
+5777,Electronics,11852,4,2,1.0,3.7,2004.77,8,Net Banking,0
+5778,Books,16252,4,3,10.8,3.6,984.47,3,UPI,0
+5779,Electronics,17345,7,0,9.3,4.3,4088.02,8,Cash on Delivery,1
+5780,Apparel,14067,5,2,10.6,4.5,634.46,8,UPI,0
+5781,Beauty,18538,7,2,17.3,4.9,2515.47,7,Credit Card,0
+5782,Apparel,19904,5,0,7.3,5.0,4360.36,5,Debit Card,0
+5783,Apparel,13400,4,2,15.6,3.2,2442.39,9,Debit Card,1
+5784,Home Decor,12459,5,2,19.3,4.4,4728.38,7,Debit Card,1
+5785,Apparel,11261,7,1,7.7,3.7,2451.26,3,Debit Card,1
+5786,Beauty,19938,7,2,10.2,2.3,4157.01,6,Cash on Delivery,1
+5787,Electronics,15805,3,1,12.2,3.7,3038.72,2,Credit Card,1
+5788,Apparel,18452,2,2,19.2,3.2,4242.48,6,Debit Card,0
+5789,Home Decor,17947,8,0,8.5,4.6,1569.43,4,Cash on Delivery,0
+5790,Books,10690,5,1,18.7,4.5,4418.05,7,Cash on Delivery,0
+5791,Electronics,17197,8,2,4.3,4.8,2339.84,2,Cash on Delivery,1
+5792,Beauty,15071,6,1,11.1,2.4,2362.47,4,Net Banking,1
+5793,Home Decor,10689,6,2,15.2,5.0,1337.99,9,Debit Card,0
+5794,Books,12108,6,1,13.5,4.4,1014.8,1,Cash on Delivery,0
+5795,Home Decor,11862,5,2,4.4,4.3,1674.98,1,Debit Card,0
+5796,Apparel,16241,2,2,15.3,2.4,4158.41,3,Credit Card,0
+5797,Books,15646,6,1,16.4,4.1,3685.27,4,Cash on Delivery,0
+5798,Books,17743,5,1,13.9,3.3,2884.38,4,Net Banking,1
+5799,Electronics,15905,9,1,9.5,3.2,3803.42,4,Net Banking,0
+5800,Home Decor,12388,2,1,10.4,4.5,401.1,2,Cash on Delivery,0
+5801,Beauty,16645,2,2,10.0,5.0,1068.53,1,Cash on Delivery,0
+5802,Home Decor,19424,8,1,16.6,4.0,4000.09,5,Net Banking,1
+5803,Books,13070,4,1,14.1,5.0,140.67,3,Credit Card,0
+5804,Books,18082,6,2,1.0,4.7,2240.94,4,Debit Card,1
+5805,Books,10185,2,0,10.7,4.0,2567.72,5,Credit Card,0
+5806,Beauty,12323,3,0,16.2,3.8,2506.65,7,Debit Card,0
+5807,Electronics,12948,0,2,6.3,3.0,1879.31,3,Net Banking,1
+5808,Beauty,15251,5,2,1.0,3.2,1852.09,8,Cash on Delivery,1
+5809,Books,19026,11,1,2.4,4.8,3901.08,6,Credit Card,0
+5810,Apparel,12255,0,0,11.6,3.8,1229.78,2,Credit Card,1
+5811,Beauty,16149,6,1,14.6,3.9,4260.16,4,Net Banking,0
+5812,Books,19101,8,1,14.4,2.2,4593.05,1,Net Banking,0
+5813,Apparel,16234,5,2,5.2,4.2,2499.96,2,Credit Card,1
+5814,Apparel,18350,6,2,12.6,5.0,157.56,3,Debit Card,1
+5815,Books,18959,5,1,14.3,4.0,227.47,2,UPI,0
+5816,Books,17654,5,2,10.4,4.9,387.02,1,Cash on Delivery,0
+5817,Home Decor,14977,7,0,1.0,4.2,3820.24,6,UPI,0
+5818,Home Decor,11703,5,0,13.4,2.3,3393.95,4,Cash on Delivery,0
+5819,Home Decor,14788,5,2,13.7,2.3,4596.8,4,UPI,1
+5820,Books,18560,9,1,10.1,3.5,1615.52,1,Debit Card,0
+5821,Beauty,19767,9,2,6.1,4.4,1650.65,5,UPI,0
+5822,Beauty,18765,4,1,7.1,4.0,3264.18,8,Debit Card,0
+5823,Electronics,17233,3,1,10.4,4.1,2753.7,7,Credit Card,0
+5824,Home Decor,19767,5,2,14.5,4.6,1841.43,2,UPI,0
+5825,Home Decor,14854,4,1,15.6,2.9,4307.3,9,UPI,0
+5826,Home Decor,17591,0,2,10.8,4.0,4244.89,4,Cash on Delivery,0
+5827,Electronics,12891,5,2,9.6,3.1,2101.16,9,UPI,1
+5828,Electronics,12540,4,1,9.0,4.8,1933.99,9,Debit Card,0
+5829,Apparel,19380,9,1,8.8,3.6,3312.35,5,Debit Card,0
+5830,Home Decor,10248,2,0,12.6,4.4,3663.51,7,Net Banking,0
+5831,Electronics,12247,3,0,9.6,4.9,2367.59,5,Credit Card,0
+5832,Beauty,12561,3,2,15.0,3.4,2279.46,8,UPI,0
+5833,Apparel,19772,4,1,15.6,4.4,2257.18,5,UPI,0
+5834,Beauty,10340,4,1,14.1,4.0,928.18,2,UPI,0
+5835,Books,15197,14,0,15.8,4.2,4845.76,1,Debit Card,0
+5836,Electronics,18702,5,1,7.9,4.2,136.39,7,UPI,0
+5837,Books,19848,6,1,11.4,2.9,4386.44,6,Cash on Delivery,0
+5838,Apparel,11962,6,2,8.7,4.0,178.71,8,Credit Card,0
+5839,Apparel,19148,5,1,12.4,4.4,3082.78,7,Net Banking,0
+5840,Electronics,16772,1,0,11.4,4.4,1150.06,1,Debit Card,1
+5841,Books,16183,7,1,6.8,5.0,3040.91,7,Debit Card,1
+5842,Electronics,19893,1,2,12.7,4.6,4403.18,1,Credit Card,0
+5843,Electronics,18942,6,2,8.9,3.0,4574.1,8,UPI,1
+5844,Apparel,13368,4,1,8.6,5.0,2145.73,9,Cash on Delivery,0
+5845,Electronics,14159,5,1,8.4,5.0,2258.33,3,UPI,0
+5846,Books,11317,2,1,4.4,4.7,3893.6,5,Net Banking,0
+5847,Electronics,17860,8,1,21.8,2.7,396.21,4,Credit Card,0
+5848,Beauty,19185,4,1,6.5,5.0,1288.6,1,Net Banking,1
+5849,Books,10165,5,0,12.5,3.3,344.3,2,Cash on Delivery,0
+5850,Books,16891,5,3,11.2,4.4,2379.05,3,Credit Card,0
+5851,Beauty,14342,7,0,7.6,3.5,1699.9,2,Credit Card,0
+5852,Books,15894,7,1,13.8,3.2,2423.32,8,Net Banking,0
+5853,Books,10896,4,1,6.0,5.0,486.56,9,UPI,0
+5854,Books,13301,6,1,7.8,4.9,4829.93,5,Debit Card,0
+5855,Books,19248,6,1,18.7,4.6,2870.82,4,Net Banking,0
+5856,Electronics,13068,4,1,10.6,4.2,3036.75,1,UPI,0
+5857,Beauty,15486,6,1,3.3,4.4,470.41,7,Credit Card,0
+5858,Home Decor,10585,5,1,2.6,3.2,3691.69,8,Cash on Delivery,0
+5859,Electronics,12431,2,1,6.6,4.7,1822.05,7,UPI,0
+5860,Apparel,11343,3,0,4.9,5.0,344.95,7,UPI,1
+5861,Beauty,18640,4,0,5.7,3.0,3420.84,2,UPI,0
+5862,Beauty,17134,8,1,13.6,4.9,1385.09,4,UPI,0
+5863,Books,18769,3,0,5.4,2.4,3325.85,6,Credit Card,0
+5864,Home Decor,13725,6,0,6.8,5.0,4654.69,5,Net Banking,0
+5865,Beauty,16609,4,0,7.6,4.0,2606.04,7,Debit Card,1
+5866,Electronics,16966,4,0,1.0,4.2,2949.48,9,Debit Card,0
+5867,Books,13161,7,1,6.8,4.4,4046.92,6,Credit Card,1
+5868,Beauty,12466,4,1,8.3,3.7,2789.64,3,Credit Card,1
+5869,Books,10280,2,0,8.9,5.0,3153.43,2,Cash on Delivery,0
+5870,Electronics,11607,2,3,8.3,4.5,4500.87,1,Cash on Delivery,0
+5871,Electronics,17662,4,1,13.4,3.4,3260.59,4,Debit Card,0
+5872,Books,12663,6,0,1.0,4.3,2321.17,8,Cash on Delivery,1
+5873,Electronics,15183,4,0,1.0,3.4,2687.64,7,UPI,0
+5874,Electronics,10565,7,2,5.0,3.1,4769.68,5,Debit Card,0
+5875,Electronics,10588,4,0,10.2,4.3,3931.86,4,Debit Card,0
+5876,Home Decor,18192,3,0,15.7,5.0,3544.24,8,Debit Card,1
+5877,Books,12622,6,1,10.5,3.9,2261.35,5,Credit Card,1
+5878,Beauty,18135,1,0,13.6,4.9,2412.17,7,Credit Card,0
+5879,Apparel,15360,6,0,10.6,5.0,1634.62,9,Net Banking,0
+5880,Home Decor,14022,5,1,12.4,3.5,700.31,6,Debit Card,0
+5881,Books,11223,3,0,2.6,4.8,1322.6,2,UPI,0
+5882,Books,17339,6,0,2.7,3.6,3307.54,4,Debit Card,0
+5883,Books,10428,3,0,11.7,4.3,1583.44,1,Debit Card,0
+5884,Apparel,18563,1,0,16.8,4.5,2032.21,9,UPI,0
+5885,Books,14852,1,1,18.6,3.1,614.29,9,Cash on Delivery,0
+5886,Electronics,18913,7,1,3.7,3.1,2729.37,1,Cash on Delivery,0
+5887,Home Decor,17583,4,1,11.3,3.5,2717.46,5,UPI,1
+5888,Apparel,15526,6,1,19.1,4.3,420.78,3,Credit Card,0
+5889,Home Decor,12480,5,1,11.9,3.1,4026.21,2,Cash on Delivery,1
+5890,Beauty,11619,4,1,5.8,3.3,3375.29,9,Debit Card,0
+5891,Electronics,14738,4,2,8.6,5.0,1954.47,3,Debit Card,0
+5892,Home Decor,14231,6,1,7.6,2.4,2205.33,5,Net Banking,0
+5893,Electronics,11633,9,0,4.6,2.5,3790.93,7,Credit Card,1
+5894,Beauty,16255,4,1,10.1,4.1,1697.39,5,UPI,0
+5895,Books,14161,5,1,9.7,3.5,2350.27,1,Credit Card,1
+5896,Beauty,17780,6,1,13.6,3.9,3519.93,2,Cash on Delivery,0
+5897,Electronics,19014,4,0,11.7,3.7,3830.7,5,Net Banking,0
+5898,Electronics,15085,2,0,4.5,2.5,1549.03,5,Credit Card,0
+5899,Books,18075,3,1,16.5,4.0,4071.69,8,Net Banking,0
+5900,Books,11779,6,1,2.0,4.5,2304.83,8,Debit Card,0
+5901,Books,19099,3,0,3.1,3.9,947.69,9,Cash on Delivery,0
+5902,Beauty,19734,3,0,11.2,5.0,3495.11,3,Cash on Delivery,1
+5903,Apparel,13685,5,1,11.6,5.0,1882.87,4,UPI,0
+5904,Books,15378,4,0,11.5,4.6,1413.12,1,Net Banking,0
+5905,Electronics,17682,3,1,11.0,3.3,146.48,4,Cash on Delivery,0
+5906,Apparel,11944,1,3,9.5,5.0,4649.4,6,Cash on Delivery,0
+5907,Beauty,18910,5,1,12.8,3.5,3229.33,1,Net Banking,0
+5908,Books,19939,8,1,10.6,4.0,1108.43,7,UPI,0
+5909,Home Decor,13161,6,1,7.3,3.6,1970.46,5,Credit Card,0
+5910,Home Decor,15527,4,1,8.8,4.9,4305.98,6,UPI,0
+5911,Books,15340,5,1,11.9,4.5,4693.59,6,UPI,0
+5912,Books,17140,7,2,8.0,4.4,3246.88,8,Debit Card,1
+5913,Books,14783,6,2,9.0,5.0,2640.99,9,Cash on Delivery,0
+5914,Apparel,17454,5,3,11.0,2.3,427.57,1,UPI,0
+5915,Books,18633,4,1,3.7,1.4,2666.47,8,Cash on Delivery,0
+5916,Beauty,19035,6,3,17.3,5.0,710.91,4,Net Banking,1
+5917,Electronics,19309,2,1,10.5,3.3,951.95,1,Credit Card,1
+5918,Electronics,18095,8,0,8.9,5.0,3572.24,5,Net Banking,0
+5919,Electronics,10326,4,3,13.7,4.4,3592.5,8,Credit Card,0
+5920,Beauty,12141,7,2,14.6,4.2,2367.93,1,Cash on Delivery,1
+5921,Home Decor,11956,5,1,7.9,3.9,4523.36,5,Net Banking,0
+5922,Beauty,16789,2,1,12.7,2.5,555.57,6,Cash on Delivery,0
+5923,Beauty,14780,3,2,18.0,2.9,2370.32,4,Debit Card,0
+5924,Beauty,19844,2,1,15.5,3.4,2882.45,3,Credit Card,0
+5925,Home Decor,13670,4,1,1.0,5.0,3037.0,8,Debit Card,1
+5926,Electronics,16508,7,0,11.1,5.0,1705.0,3,Cash on Delivery,1
+5927,Books,17117,4,2,1.0,3.9,4135.51,2,Cash on Delivery,0
+5928,Books,11299,4,2,2.6,4.5,1962.92,7,Debit Card,0
+5929,Apparel,15034,4,2,9.4,4.8,855.66,9,Cash on Delivery,0
+5930,Beauty,11962,4,1,23.9,3.1,3041.5,5,Credit Card,0
+5931,Home Decor,16832,8,0,3.9,3.2,1356.51,1,UPI,0
+5932,Home Decor,15947,8,0,1.0,4.1,3222.35,4,UPI,0
+5933,Apparel,13368,3,1,5.7,1.9,392.45,1,Cash on Delivery,0
+5934,Books,12378,3,1,16.5,3.6,3487.69,5,Cash on Delivery,0
+5935,Books,11396,3,0,2.0,2.7,4517.45,5,Net Banking,0
+5936,Apparel,17908,5,1,7.9,2.4,2266.47,8,Credit Card,0
+5937,Beauty,16482,6,1,7.5,3.3,799.9,1,Debit Card,0
+5938,Books,15199,7,1,6.2,5.0,3683.46,7,UPI,0
+5939,Home Decor,14836,6,1,9.8,4.2,300.32,2,UPI,0
+5940,Electronics,18077,2,1,20.2,5.0,643.14,7,Credit Card,0
+5941,Electronics,12761,4,2,10.9,3.1,149.58,8,Cash on Delivery,0
+5942,Home Decor,10822,3,0,9.9,4.0,4376.13,2,UPI,0
+5943,Electronics,19550,7,0,11.2,4.9,3073.39,5,Debit Card,0
+5944,Electronics,10867,5,0,13.4,3.8,4751.03,1,Net Banking,1
+5945,Beauty,14824,5,1,3.8,1.3,2439.38,3,Credit Card,0
+5946,Books,12141,5,0,8.0,3.2,3005.19,7,Debit Card,1
+5947,Beauty,19545,5,0,11.6,3.0,4191.09,5,UPI,0
+5948,Electronics,15388,4,1,10.4,2.2,1799.61,7,Debit Card,1
+5949,Apparel,19846,11,1,6.7,3.9,956.26,1,Net Banking,0
+5950,Books,14393,5,1,2.2,2.4,102.96,7,UPI,0
+5951,Electronics,10089,3,2,12.4,4.8,3373.13,4,Credit Card,0
+5952,Home Decor,12095,6,0,5.1,3.1,1160.16,5,UPI,0
+5953,Beauty,19886,3,0,10.8,5.0,1324.17,6,Credit Card,0
+5954,Beauty,10273,2,0,8.5,4.0,3688.83,5,Cash on Delivery,0
+5955,Electronics,15941,8,1,15.1,3.7,3153.39,4,Credit Card,1
+5956,Home Decor,18018,6,1,15.2,3.3,4631.75,6,Cash on Delivery,0
+5957,Books,19909,11,2,8.1,3.2,1658.6,6,Net Banking,0
+5958,Apparel,17328,5,0,10.6,3.9,4878.95,3,UPI,0
+5959,Beauty,16011,10,0,9.0,4.9,2121.3,1,Cash on Delivery,0
+5960,Home Decor,18052,3,2,7.4,4.3,3859.22,2,Debit Card,0
+5961,Electronics,17664,8,0,15.1,4.1,2700.25,6,Debit Card,0
+5962,Home Decor,13423,4,2,12.6,5.0,868.73,3,Net Banking,0
+5963,Electronics,17931,2,1,9.4,4.1,161.67,7,Cash on Delivery,0
+5964,Beauty,18959,3,0,2.2,5.0,1448.68,7,Debit Card,0
+5965,Apparel,10740,8,4,6.6,4.1,762.21,6,UPI,0
+5966,Beauty,14783,3,1,18.3,3.7,1582.13,5,Credit Card,0
+5967,Home Decor,12309,6,0,12.0,4.3,3032.85,1,Debit Card,1
+5968,Apparel,13486,5,0,6.4,2.7,2103.14,3,Credit Card,0
+5969,Home Decor,19768,11,0,4.4,1.2,1106.37,9,Debit Card,1
+5970,Apparel,19992,7,2,12.1,3.0,2534.43,6,Cash on Delivery,0
+5971,Beauty,17924,8,1,3.5,4.8,1401.89,1,Cash on Delivery,1
+5972,Apparel,15353,7,3,16.3,4.4,4720.42,5,Credit Card,0
+5973,Books,13728,7,0,11.3,3.3,827.75,5,Credit Card,1
+5974,Electronics,15086,4,0,16.9,4.5,3662.3,3,Cash on Delivery,0
+5975,Beauty,15697,7,0,9.7,2.8,2214.0,6,Debit Card,0
+5976,Apparel,16038,3,1,7.4,1.6,2622.72,4,UPI,1
+5977,Apparel,12794,6,0,6.1,3.8,2756.46,3,Cash on Delivery,1
+5978,Apparel,19626,5,0,9.4,3.4,3351.69,4,UPI,0
+5979,Beauty,17368,5,1,8.8,3.8,4668.15,8,Net Banking,0
+5980,Home Decor,12525,7,0,9.0,2.4,2089.54,3,Debit Card,0
+5981,Beauty,13251,5,1,10.3,4.0,2173.79,8,Credit Card,1
+5982,Electronics,12355,6,1,1.0,3.2,110.1,3,Credit Card,1
+5983,Books,13981,7,0,10.0,3.8,1770.22,6,Net Banking,1
+5984,Electronics,13474,2,0,12.4,5.0,783.22,2,Cash on Delivery,0
+5985,Beauty,10888,4,0,15.2,3.3,2688.59,5,UPI,0
+5986,Electronics,16790,3,1,5.9,3.6,4876.96,6,Debit Card,0
+5987,Home Decor,17545,5,2,11.2,4.1,3963.55,9,Cash on Delivery,0
+5988,Electronics,18295,2,0,2.5,3.5,4855.98,8,Credit Card,1
+5989,Beauty,19055,1,1,11.1,4.8,4434.05,2,UPI,1
+5990,Books,12905,11,2,3.2,4.6,1348.33,9,UPI,0
+5991,Apparel,12330,4,1,4.5,3.2,3051.49,8,Net Banking,1
+5992,Apparel,17875,3,1,4.3,3.7,948.11,3,Credit Card,0
+5993,Beauty,16729,4,2,15.9,4.8,1628.05,7,UPI,0
+5994,Apparel,14834,7,1,11.9,3.3,4251.19,9,Credit Card,0
+5995,Books,18846,7,0,23.0,4.3,1838.43,1,Net Banking,0
+5996,Books,18011,3,2,13.0,4.9,519.92,4,UPI,1
+5997,Books,11922,4,2,10.5,4.9,3427.33,9,UPI,0
+5998,Electronics,14527,3,2,6.4,3.9,4210.66,1,Credit Card,1
+5999,Home Decor,10231,3,2,16.6,4.2,1108.46,9,Cash on Delivery,0
+6000,Books,13120,2,1,7.6,4.7,1710.09,7,Net Banking,0
